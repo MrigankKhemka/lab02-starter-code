@@ -33,7 +33,7 @@ int insert(list *ls, int val)
  */
 int remove_val(list *ls, int val)
 {
-}
+} 
 
 /**
  * This function takes a pointer to the the list as input and returns the
